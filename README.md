@@ -11,5 +11,13 @@ $ npm install -g despacito
 ## Usage
 
 ```
-$ despacito
+Usage
+    $ despacito <options>
+
+  Options
+    --bieber, -b Play the remix feat. Justin Bieber
+    --help, -h Show this help text
+
+  Examples
+    $ despacito --bieber
 ```

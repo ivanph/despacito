@@ -2,6 +2,9 @@
   "name": "despacito",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">=4"
+  },
   "main": "index.js",
   "bin": {
     "despacito": "cli.js"
@@ -13,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "meow": "^3.7.0",
     "opn": "^5.0.0"
   }
 }
