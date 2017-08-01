@@ -8,6 +8,12 @@ This command opens the youtube video for Despacito by Luis Fonsi ft. Daddy Yanke
 $ npm install -g despacito
 ```
 
+## Or with npx
+```
+$ npx despacito
+$ npx despacito --bieber
+```
+
 ## Usage
 
 ```
